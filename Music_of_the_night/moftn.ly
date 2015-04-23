@@ -63,7 +63,6 @@ melody = \relative c' {
      \bar "||"
     \break
 
-    \ottava #1
     f4^\markup{ \italic a tempo } as, es' as,
     des8 es8 f8 ges8 es4 as
     f4 as, es' as,
@@ -74,7 +73,10 @@ melody = \relative c' {
     f \time 4/4 f es es f ges as f es des1 r r r r
     b'8 des des des es des b f \time 2/4 as4 r
     \time 4/4 f8 es es f ges as f es 
-    des'1 (des des2) r\fermata 
+    \ottava #1
+    des'1 (des des2)
+    \ottava #0
+    r\fermata 
 
 
 
