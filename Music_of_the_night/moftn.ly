@@ -3,7 +3,7 @@
 \header {
     title = "Phantom of the Opera"
     subtitle = "The Music of the Night"
-    composer = "Composed By Andrew LLoyd Webber"
+    composer = "Composed by Andrew LLoyd Webber"
     arranger = "Transcribed by Sebastian Knauer"
     instrument = "Violin"
 }
