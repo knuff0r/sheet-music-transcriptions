@@ -54,7 +54,7 @@ melody = \relative c' {
     b8 des des des es des b f \time 2/4 as4 r8 
     f \time 4/4 f es es f ges as f es des2 r4
     des'8 des 
-    \key e \major dis4 dis8 h ais gis fis gis 
+    \key e \major dis4 cis8 h ais gis fis gis 
     gis4 fis e gis8 h e4 dis8. cis16 cis8 h h b 
     \key des \major b2 r4 es8 es
     es4 des8^\markup { \italic rall. } c b as b as
@@ -74,11 +74,8 @@ melody = \relative c' {
     b'8 des des des es des b f \time 2/4 as4 r
     \time 4/4 f8 es es f ges as f es 
     \ottava #1
-    des'1 (des des2)
+    des'2 es f g as\fermata
     \ottava #0
-    r\fermata 
-
-
 
 
 
