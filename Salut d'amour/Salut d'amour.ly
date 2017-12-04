@@ -67,7 +67,7 @@ viola = \relative c' {
   fis\!^\string e e4\upbow a8( g) fis2 a4_\accel r d,\downbow dis e8 e( g b)
   fis fis( b fis) f4\f gis_\rit g! fis e4 dis8( fis\fermata)
   g2 e4( g) fis'_\piu_lento( a,8 fis') e8( d) cis\downbow d\upbow( g4) g\> g( fis8 e)\!
-  d4\<( a8 fis')\! e8( d) cis\downbow d( g4) g g_\rit( fis8\> e) d8 fis,4 fis8 a8\! d4 fis8 g4 r
+  d4\<( a8 fis')\! e8( d) cis\downbow d( g4) g g_\rit( fis8\> e) d8 fis,4 fis8 a8\! d4 fis8 fis4 r
   d,^\pizz r d_\rall_e_dim a' d, a' <d, a'>2^\arco( <d a'>4) r4\fermata
   
 
